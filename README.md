@@ -1,4 +1,4 @@
-# 🔮 Astrology Java Maven Web Application
+# 🔮 Cartoon Java Maven Web Application
 
 A beginner-friendly Java web application that accepts a user's name, date of birth,
 and birth place and displays a zodiac sign with a predefined demo prediction.
